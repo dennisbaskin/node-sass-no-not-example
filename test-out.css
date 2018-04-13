@@ -1,0 +1,21 @@
+.btn.disabled:not(.btn-default,
+.button-default, .btn-default,
+.button-default):not(.btn-outline,
+.button-outline, .btn-outline,
+.button-outline), .btn:disabled:not(.btn-default,
+.button-default, .btn-default,
+.button-default):not(.btn-outline,
+.button-outline, .btn-outline,
+.button-outline),
+.button.disabled:not(.btn-default,
+.button-default, .btn-default,
+.button-default):not(.btn-outline,
+.button-outline, .btn-outline,
+.button-outline),
+.button:disabled:not(.btn-default,
+.button-default, .btn-default,
+.button-default):not(.btn-outline,
+.button-outline, .btn-outline,
+.button-outline) {
+  background: #fefefe !important;
+  color: #111111 !important; }

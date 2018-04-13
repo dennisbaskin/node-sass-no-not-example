@@ -1,0 +1,8 @@
+.btn,
+.button {
+  &.disabled:not(&-default):not(&-outline),
+  &:disabled:not(&-default):not(&-outline) {
+    background: #fefefe !important;
+    color: #111111 !important;
+  }
+}
